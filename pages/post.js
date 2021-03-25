@@ -24,6 +24,7 @@ class Post extends Component {
                 <style jsx>{`
                     p {
                         max-width: 80vw;
+                        text-align: left;
                     }
                     .firstParagraph::first-letter {
                         float: left;
