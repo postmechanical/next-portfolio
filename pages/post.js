@@ -29,9 +29,9 @@ class Post extends Component {
                     .firstParagraph::first-letter {
                         float: left;
                         font-size: 5rem;
-                        line-height: 60px;
+                        line-height: 58px;
                         padding-top: 4px;
-                        padding-right: 8px;
+                        padding-right: 4px;
                     }
                 `}</style>
             </Layout>
